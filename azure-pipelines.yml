@@ -46,4 +46,4 @@ stages:
           runOnce:
             deploy:
               steps:
-              - script: echo my first deployment
+              - script: echo my second deployment
